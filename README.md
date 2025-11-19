@@ -1,5 +1,3 @@
-# Python_Pandas_Project
-
 # Core Pandas Skills
 
 ##📘 1. Importing & Exploring Data
