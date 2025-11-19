@@ -1,6 +1,6 @@
 # Core Pandas Skills
 
-##📘 1. Importing & Exploring Data
+## 📘 1. Importing & Exploring Data
 - Load CSV data using `pd.read_csv()`
 - Inspect datasets with:
   - `.head()`
